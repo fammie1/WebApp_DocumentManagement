@@ -1,0 +1,7 @@
+{
+  "name": "First Daft",
+  "description": "A sophisticated, minimal knowledge management system for manuals, news, standards, and training roadmaps, featuring a monochromatic light-and-shadow design and AI-powered insights.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
